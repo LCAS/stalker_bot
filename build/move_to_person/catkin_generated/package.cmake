@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "move_to_person")
+set(move_to_person_MAINTAINER "Piotr Psuty <12288112@students.lincoln.ac.uk>")
+set(move_to_person_DEPRECATED "")
+set(move_to_person_VERSION "0.0.0")
+set(move_to_person_BUILD_DEPENDS "roscpp" "rospy" "std_msgs")
+set(move_to_person_RUN_DEPENDS "roscpp" "rospy" "std_msgs")
+set(move_to_person_BUILDTOOL_DEPENDS "catkin")

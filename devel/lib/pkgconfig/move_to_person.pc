@@ -1,0 +1,8 @@
+prefix=/home/piotrek/Stalker_Bot/devel
+
+Name: move_to_person
+Description: Description of move_to_person
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/piotrek/Stalker_Bot/devel/lib 
+Requires: 
